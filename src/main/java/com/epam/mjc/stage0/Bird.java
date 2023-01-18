@@ -2,10 +2,6 @@ package com.epam.mjc.stage0;
 
 public class Bird extends Animal{
 
-    private int numberOfWings;
-    private boolean canFly;
-
-
     @Override
     public String getDescription() {
 
